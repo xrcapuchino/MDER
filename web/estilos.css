@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(83, 80, 80);
+    justify-items: center;
+}
+body {
+    width: 1200px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.icono_inicioimg {
+    width: 40px;
+    height: 40px;
+}
+nav {
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+nav a:hover {
+    color: rgb(158, 95, 218);
+}
+.Inicio {
+    display: flex;
+    gap: 20px;
+}
+
+.a_inicio {
+    color: white;
+    text-decoration: none;
+}
+
