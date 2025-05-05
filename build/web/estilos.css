@@ -17,7 +17,7 @@ nav {
     display: flex;
 }
 nav a:hover {
-    color: rgb(158, 95, 218);
+    color: rgb(250, 144, 56);
 }
 .Inicio {
     display: flex;
@@ -33,4 +33,3 @@ nav a:hover {
     direction: rtl;
     gap: 20px;
 }
-
